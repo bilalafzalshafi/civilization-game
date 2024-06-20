@@ -4,10 +4,10 @@
 2. To play the game, type `make play`
 
 ## OVERVIEW AND GOAL OF THE GAME
-- Civ4 is a turn-based strategy and terminal-based game. 
+- Civilization is a terminal-based, turn-based strategy game. 
 - You and your computer opponent will take turns to either claim or build on tiles. 
 - Points are gained and lost during the game. 
-- At the end of 20 rounds, the player with the highest score is proclaimed the winner. 
+- At the end of 20 rounds, the player with the highest score is declared the winner. 
 
 ## GAME PLAY
 ### Initializing the game
